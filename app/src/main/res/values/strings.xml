@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day mode and Night mode</string>
+    <string name="day_theme">DayTheme</string>
+    <string name="night_theme">NightTheme</string>
+    <string name="next_activity">NextActivity</string>
+    <string name="next_text">Hey…I am Next</string>
+</resources>
